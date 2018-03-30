@@ -1,7 +1,4 @@
----
-title: HW 0 (140 points)
-headerImg: angles.jpg
----
+# Assignment 0: Lambda Calculus (140 points)
 
 ## Due by Friday 4/13 23:59:59
 

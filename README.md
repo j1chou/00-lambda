@@ -5,7 +5,7 @@
 Get this assignment by running:
 
 ```
-git clone https://github.com/cse130-sp18/00-lambda.git
+git clone https://github.com/cse130-wi19/00-lambda.git
 ```
 
 

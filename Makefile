@@ -1,18 +1,18 @@
 
 #####################################################################################################
-COURSE=cs130s
+COURSE=cs130w
 ASGN=00
 COMPILER=lambda
 #####################################################################################################
 
 test:
-	stack test
+	stack test --allow-different-user
 
 bin:
-	stack build
+	stack build --allow-different-user
 
 clean:
-	stack clean
+	stack clean --allow-different-user
 
 turnin: clean
 	tar -zcvf ../$(ASGN)-$(COMPILER).tgz --exclude .git --exclude .stack-work ../$(ASGN)-$(COMPILER)

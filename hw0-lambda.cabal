@@ -25,4 +25,4 @@ test-suite test
                     process,
                     tasty,
                     tasty-hunit,
-                    elsa
+                    elsa >= 0.2.1.1

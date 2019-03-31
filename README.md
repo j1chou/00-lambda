@@ -1,13 +1,12 @@
 # Assignment 0: Lambda Calculus (140 points)
 
-## Due by Monday 1/21 1pm
+## Due by Wednesday 4/10 23:59:59
 
 Get this assignment by running:
 
 ```
 git clone https://github.com/cse130-wi19/00-lambda.git
 ```
-
 
 ## Overview : Lambda Calculus
 

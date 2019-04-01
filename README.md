@@ -2,11 +2,7 @@
 
 ## Due by Wednesday 4/10 23:59:59
 
-Get this assignment by running:
-
-```
-git clone https://github.com/cse130-wi19/00-lambda.git
-```
+Get this assignment from [this link](https://classroom.github.com/a/8hzqrBLt)
 
 ## Overview : Lambda Calculus
 

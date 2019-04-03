@@ -17,6 +17,12 @@ turnin:
 	git commit -a -m "turnin"
 	git push origin master
 
+upstream:
+	git remote add upstream https://github.com/ucsd-cse130/00-lambda.git
+
+update:
+	git pull upstream master
+
 #turnin: clean
 #	tar -zcvf ../$(ASGN)-$(COMPILER).tgz --exclude .git --exclude .stack-work ../$(ASGN)-$(COMPILER)
 #	mv ../$(ASGN)-$(COMPILER).tgz .

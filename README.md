@@ -35,10 +35,10 @@ All the points will be awarded automatically, by
 When you run
 
 ```shell
-$ make 
+$ make
 ```
 
-or 
+or
 
 ```shell
 $ stack test
@@ -82,7 +82,7 @@ for more information on the operation of the program.
 every definition. It is often easier to keep some definitions folded until
 their code is needed.
 
-## Problem 1: `01_bool.lc`  
+## Problem 1: `01_bool.lc`
 
 **NOTE: DO NOT** use the `=*>` or `=~>` operators
 anywhere in your solution for this problem, or you
@@ -110,7 +110,7 @@ Complete the sequence of `=a>`, `=b>` and `=d>`
 steps needed to reduce `OR FALSE TRUE` to `TRUE`.
 
 
-## Problem 2: `02_plus.lc`  
+## Problem 2: `02_plus.lc`
 
 **NOTE: DO NOT** use the `=*>` or `=~>` operators
 anywhere in your solution for this problem, or you
@@ -145,7 +145,7 @@ you will get 0 points for the assignment.
 ### Part (a) (30 points)
 
 Replace the definition of `SKIP1` with a suitable
-lambda-term (i.e. replace `undefined` with a suitable
+lambda-term (i.e. replace `TODO` with a suitable
 term) so that the following reductions are valid:
 
 ```haskell
@@ -165,7 +165,7 @@ eval skip1_true_one :
 ### Part (b) (30 points)
 
 Replace the definition of `DEC` (decrement-by-one)
-with a suitable lambda-term (i.e. replace `undefined`
+with a suitable lambda-term (i.e. replace `TODO`
 with a suitable term) so that the following reductions
 are valid:
 
@@ -186,7 +186,7 @@ eval decr_two :
 ### Part (c) (10 points)
 
 Replace the definition of `SUB` (subtract) with a
-suitable lambda-term (i.e. replace `undefined`
+suitable lambda-term (i.e. replace `TODO`
 with a suitable term) so that the following
 reductions are valid:
 
@@ -211,7 +211,7 @@ eval sub_two_three :
 ### Part (d) (20 points)
 
 Replace the definition of `ISZ` (is-equal-to-zero)
-with a suitable lambda-term (i.e. replace `undefined`
+with a suitable lambda-term (i.e. replace `TODO`
 with a suitable term) so that the following
 reductions are valid:
 
@@ -229,7 +229,7 @@ eval isz_one :
 
 Replace the definition of `EQL` (is-equal)
 with a suitable lambda-term (i.e. replace
-`undefined` with a suitable term) so that
+`TODO` with a suitable term) so that
 the following reductions are valid:
 
 ```haskell

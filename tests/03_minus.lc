@@ -27,14 +27,21 @@ let FST   = \p     -> p TRUE
 let SND   = \p     -> p FALSE
 
 --------------------------------------------------------------------------------
+-- Ignore this definition; it's a hack to allow you to test some parts before
+-- completing others
+--------------------------------------------------------------------------------
+
+let TODO  = \i g n o r e -> i g n o r e
+
+--------------------------------------------------------------------------------
 -- do not modify text BEFORE this line
 --------------------------------------------------------------------------------
 
-let SKIP1 = undefined       -- (a)
-let DEC   = undefined       -- (b)
-let SUB   = undefined       -- (c)
-let ISZ   = undefined       -- (d)
-let EQL   = undefined       -- (e)
+let SKIP1 = TODO       -- (a)
+let DEC   = TODO       -- (b)
+let SUB   = TODO       -- (c)
+let ISZ   = TODO       -- (d)
+let EQL   = TODO       -- (e)
 
 --------------------------------------------------------------------------------
 -- do not modify text AFTER this line

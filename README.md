@@ -25,6 +25,14 @@ You can edit these files and then run them,
 If you run it online, be sure to **copy back the result**
 into the corresponding local file before submitting.
 
+## Running Elsa 
+
+In the lab `ieng6` You can run `elsa` on a single file `path/to/file.lc` with:
+
+```
+exec_elsa path/to/file.lc 
+```
+
 ## Assignment Testing and Evaluation
 
 Your functions/programs **must** compile and run on `ieng6.ucsd.edu`.

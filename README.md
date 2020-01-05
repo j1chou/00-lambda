@@ -1,8 +1,6 @@
 # Assignment 0: Lambda Calculus (140 points)
 
-## Due by Wednesday 4/10 23:59:59
-
-Get this assignment from [this link](https://classroom.github.com/a/8hzqrBLt)
+**Due by Friday 1/17/20 23:59:59**
 
 ## Overview : Lambda Calculus
 
@@ -18,12 +16,11 @@ The assignment is in the files:
 
 You can edit these files and then run them,
 
-* either through the [web interface](http://goto.ucsd.edu:8095/index.html), OR
+* either through the [web interface](https://goto.ucsd.edu/elsa/index.html), OR
 * by running `$ elsa path/to/file.lc` on `ieng6.ucsd.edu`, OR
 * by locally installing `elsa` following [these instructions](https://github.com/ucsd-progsys/elsa#install)
 
-If you run it online, be sure to **copy back the result**
-into the corresponding local file before submitting.
+If you run it online, be sure to **copy back the result** to the corresponding local file before submitting.
 
 ## Running Elsa 
 

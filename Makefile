@@ -1,5 +1,5 @@
 #####################################################################################################
-COURSE=cs130sp19
+COURSE=cs130wi20
 ASGN=00
 COMPILER=lambda
 #####################################################################################################
@@ -22,8 +22,3 @@ upstream:
 
 update:
 	git pull upstream master
-
-#turnin: clean
-#	tar -zcvf ../$(ASGN)-$(COMPILER).tgz --exclude .git --exclude .stack-work ../$(ASGN)-$(COMPILER)
-#	mv ../$(ASGN)-$(COMPILER).tgz .
-#	turnin -c $(COURSE) -p $(ASGN) ./$(ASGN)-$(COMPILER).tgz

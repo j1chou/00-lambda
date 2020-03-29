@@ -9,4 +9,4 @@ extra-deps:
 - clock-0.7.2
 - elsa-0.2.1.1 
 
-resolver: lts-13.20
+resolver: lts-14.12

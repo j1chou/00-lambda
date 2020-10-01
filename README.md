@@ -1,7 +1,5 @@
 # Assignment 0: Lambda Calculus (140 points)
 
-**Due by Friday 1/17/20 23:59:59**
-
 ## Overview : Lambda Calculus
 
 The objective of this assignment is for you to understand

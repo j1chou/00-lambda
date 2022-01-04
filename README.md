@@ -17,19 +17,10 @@ The assignment is in the files:
 You can edit these files and then run them,
 
 * either through the [web interface](https://goto.ucsd.edu/elsa/index.html), OR
-* by running `$ elsa path/to/file.lc` on `ieng6.ucsd.edu`, OR the **CSE230-VM** (see below) 
+* by running `$ elsa path/to/file.lc` on `ieng6.ucsd.edu`
 * by locally installing `elsa` following [these instructions](https://github.com/ucsd-progsys/elsa#install)
 
 If you run it online, be sure to **copy back the result** to the corresponding local file before submitting.
-
-## Virtual Machine
-
-If you have trouble installing `elsa` locally, please use the [VirtualBox](https://www.virtualbox.org/)
-
-[CSE230-Virtual Machine Image](https://drive.google.com/file/d/1BlYeSZPNVrxUu8jQWgUkquRBjE6wQww3/view?usp=sharing)
-
-Both *username* and *password* are `cse230`
-
 
 ## Assignment Testing and Evaluation
 

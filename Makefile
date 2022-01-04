@@ -9,10 +9,10 @@ clean:
 
 turnin: 
 	git commit -a -m "turnin"
-	git push origin main
+	git push origin master
 
 upstream:
 	git remote add upstream https://github.com/ucsd-cse130/00-lambda.git
 
 update:
-	git pull upstream main
+	git pull upstream master
